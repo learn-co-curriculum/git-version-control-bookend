@@ -2,9 +2,8 @@
 
 ## Looking Back
 
-Over the last section of lessons, we covered how to integrate a version control
-system into your coding workflow. Specifically, we learned about Git and its
-features, including:
+Over the last section of lessons, we covered how to set up a version control
+system using Git. Specifically, we learned about Git and its features, including:
 
 - The benefits of using a VCS like Git
 - Useful Git vocabulary terms
@@ -25,12 +24,14 @@ you use Git, the easier it will be to incorporate it into your coding.
 
 Now that we have the basics, we can explore the more advanced features of Git.
 Beyond the tools it gives us to organize and keep track of your own work, it
-also allows us to collaborate with others. As you grow in your work as a coder,
+also allows us to collaborate with others. As you grow as a coder, and your work becomes more complex,
 you'll need to collaborate more and more. You might be working with a large team
 that has to coordinate changes among several people at once. You might
 contribute to an open source project where you submit code to be reviewed by the
 community. Or you might share your own repository and accept others'
-contributions yourself. In some situations, strong Git skills are just as
-important, if not more so, than coding skills. You're now prepared to build on
+contributions. In some situations, strong Git skills are just as
+important, if not more so, than coding skills.
+
+You're now prepared to build on
 your Git foundation so that you can expand your opportunities to make bigger and
 better things.
